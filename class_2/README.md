@@ -63,6 +63,14 @@ https://mobaxterm.mobatek.net/download-home-edition.html
 
 ```Ip a s```
 
+4. Conectarse en mobaxterm a la ip de VirtualBox 
+
+```ssh [ip] -l [usuarioDeUbuntu]```
+
+Ejemplo:
+
+```ssh 192.168.1.15 -l diana```
+
 **Usar herramienta CodiMD**
 
 ```git clone https://github.com/jsgiraldoh/Codimd.git```
