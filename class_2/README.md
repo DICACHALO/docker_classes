@@ -117,7 +117,7 @@ docker container restart codimd_codimd_1
 docker logs -f codimd_codimd_1
 
 
-LINUX MINT: https://linuxhint.com/install_docker_linux_mint/
+LINUX MINT: https://docs.docker.com/engine/install/ubuntu/
 ----
 
 Más información en: 
